@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 58c889d3911c8364fb344ab76672b467
+timeCreated: 1438781354
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snowly_sprite_sheet_0
+    21300002: snowly_sprite_sheet_1
+    21300004: snowly_sprite_sheet_2
+    21300006: snowly_sprite_sheet_3
+    21300008: snowly_sprite_sheet_4
+    21300010: snowly_sprite_sheet_5
+    21300012: snowly_sprite_sheet_6
+    21300014: snowly_sprite_sheet_7
+    21300016: snowly_sprite_sheet_8
+    21300018: snowly_sprite_sheet_9
+    21300020: snowly_sprite_sheet_10
+    21300022: snowly_sprite_sheet_11
+    21300024: snowly_sprite_sheet_12
+    21300026: snowly_sprite_sheet_13
+    21300028: snowly_sprite_sheet_14
+    21300030: snowly_sprite_sheet_15
+    21300032: snowly_sprite_sheet_16
+    21300034: snowly_sprite_sheet_17
+    21300036: snowly_sprite_sheet_18
+    21300038: snowly_sprite_sheet_19
+    21300040: snowly_sprite_sheet_20
+    21300042: snowly_sprite_sheet_21
+    21300044: snowly_sprite_sheet_22
+    21300046: snowly_sprite_sheet_23
+    21300048: snowly_sprite_sheet_24
+    21300050: snowly_sprite_sheet_25
+    21300052: snowly_sprite_sheet_26
+    21300054: snowly_sprite_sheet_27
+    21300056: snowly_sprite_sheet_28
+    21300058: snowly_sprite_sheet_29
+    21300060: snowly_sprite_sheet_30
+    21300062: snowly_sprite_sheet_31
+    21300064: snowly_sprite_sheet_32
+    21300066: snowly_sprite_sheet_33
+    21300068: snowly_sprite_sheet_34
+    21300070: snowly_sprite_sheet_35
+    21300072: snowly_sprite_sheet_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: snowly_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 449
+        width: 22
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 451
+        width: 25
+        height: 55
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 449
+        width: 28
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 449
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 449
+        width: 27
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 257
+        width: 48
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 257
+        width: 45
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 257
+        width: 43
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 257
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 257
+        width: 43
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 257
+        width: 45
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 194
+        width: 21
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 197
+        width: 23
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 200
+        width: 23
+        height: 51
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 194
+        width: 21
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 197
+        width: 23
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 200
+        width: 22
+        height: 51
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 129
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 129
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 129
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 130
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 26
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 22
+        height: 56
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 65
+        width: 18
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 65
+        width: 18
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 65
+        width: 21
+        height: 56
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 65
+        width: 18
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 65
+        width: 18
+        height: 57
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 29
+        height: 55
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 10
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 33
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 30
+        height: 55
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 10
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: snowly_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1
+        width: 34
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

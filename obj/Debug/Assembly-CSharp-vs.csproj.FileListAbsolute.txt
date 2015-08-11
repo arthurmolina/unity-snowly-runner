@@ -1,0 +1,48 @@
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ernesto\Desktop\crash_course\hello_unity\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ernesto\Desktop\crash_course\Snowly Runner\obj\Debug\Assembly-CSharp.pdb

@@ -14,10 +14,11 @@ public class PlayerScript : MonoBehaviour {
     public LayerMask whatIsGround;
     public AudioClip jumpSfx;
     public AudioClip doubleJumpSfx;
-    public UnityEngine.UI.Text txtScore;
+	public UnityEngine.UI.Text txtScore;
+	public static float increaseOfSpeedOnComponents;
     private bool isRunning;
     private int limitForSpeed;
-    public static float increaseOfSpeedOnComponents;
+	private int jumpCount = 0;
 
     void Start()
     {
@@ -31,13 +32,18 @@ public class PlayerScript : MonoBehaviour {
     {
         txtScore.text = score.ToString();
 
-        if (Input.GetButtonDown("Jump") && isGrounded)
+		if (Input.GetButtonDown("Jump") && jumpCount < 1)
         {
             playerRigidBody.AddForce(Vector2.up * jumpForce);
             this.GetComponent<AudioSource>().PlayOneShot(jumpSfx);
+			jumpCount++;
         }
             
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, whatIsGround);
+
+		if (isGrounded) {
+			jumpCount = 0;
+		}
 
         if (Input.GetButtonDown("Fire1"))
         {
